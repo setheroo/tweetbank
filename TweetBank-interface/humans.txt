@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <coryglenn> -- <developer> -- <@coryglenn>
+    <seththompson> -- <creative> -- <@setheroo88>
+
+# THANKS
+
+    	#Hackeroo <http://hackeroo.io>
+	#Bonnaroo 2013 <http://bonnaroo.com>
+	#LOTG2013 <http://liveonthegreen.net>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, mySQL, Python, Twython
+    jQuery, Modernizr
